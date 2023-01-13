@@ -2,6 +2,7 @@
 
 Module to authorize credit and debit payments that validates certain rules listed as violations in the output 
 
+The code is written in Typescript in the file `./ index.ts`
 
 ## Business Rules
 
